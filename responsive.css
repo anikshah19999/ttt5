@@ -1,0 +1,317 @@
+
+@media all and (max-width:1400px){
+
+    .carsol-one-img {
+        height: 65vh;
+    }
+    .carsol-two-img {
+        height: 65vh;
+    }
+    .carsol-three-img{
+        height: 65vh;
+    }
+    .choose-title h1 {
+        font-size: 32px;
+    }
+    .news-text h3 {
+        font-size: 24px;
+    }
+
+}
+
+@media all and (max-width:1200px){
+    .carsol-one-img {
+        height: 60vh;
+    }
+    .carsol-title h1 {
+      font-size: 45px;
+    }
+    .carsol-title {
+        width: 730px;
+    }
+    .title h1 {
+        font-size: 26px;
+    }
+    .title p {
+        line-height: 24px;
+    }
+    .title p {
+        line-height: 24px;
+        font-size: 16px !important;
+    }
+    .project-text h3 {
+        font-size: 20px;
+    }
+    .choose-imges {
+        margin-top: 75px;
+    }
+    .social ul li {
+        left: 0;
+
+    }
+    .progress-left-righ {
+        margin-bottom: 0px;
+    }
+    .progress-left-righ {
+        margin-bottom: 4px;
+    }
+    .apportment-form-style input {
+        font-size: 13px;
+    }
+    .apportment-form-style select {
+        font-size: 13px;
+
+    }
+    .news-text h3 {
+        font-size: 18px;
+    }
+}
+@media all and (max-width:992px) {
+    .header-top-left{
+        justify-content: center;
+        align-items: center;
+    }
+    .header-top-right {
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: .5rem;
+    }
+    .header-bottom-section {
+        position: relative;
+    }
+    .jon-menu li a {
+        font-size: 1.6rem;
+        line-height: 5.5rem;
+    }
+    .jon-menu li a i {
+        font-size: 1.2rem;
+    }
+    .jon-header a img {
+        width: 10rem;
+    }
+    .jon-menu {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    .bar-search {
+        display: none;
+    }
+    .jon-menu li ul {
+        left: 14%;
+        top: 0%;
+        width: 18rem;
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+    .jon-menu li ul li a i {
+        position: relative;
+        top: 0;
+        left: -86px;
+    }
+    .jon-menu li:hover > ul {
+        top: 2rem;
+    }
+    .bot-uper {
+        margin-bottom: 35px;
+    }
+
+    .custom-shape-divider-bottom-1625579837 svg {
+        height: 0px;
+    }
+    .bot-uper {
+        top: 40px;
+    }
+    .bot-lower {
+        position: relative;
+        top: 60px;
+        left: 0;
+    }
+    .carsol-title {
+        width: 561px;
+        padding-bottom: 140px;
+    }
+    .carsol-one-img {
+        height: 50vh;
+    }
+    .carsol-two-img {
+        height: 50vh;
+    }
+    .carsol-three-img{
+        height:50vh;
+    }
+    .about-us-section {
+        padding-bottom: 60px;
+    }
+    .serives-box h3 {
+        font-size: 1.8rem;
+    }
+    .project-text {
+        margin-bottom: 25px;
+    }
+    .amite-hov:hover .project-items .aro4 {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .amite-hov:hover .project-items .aro5 {
+        opacity: 0;
+        visibility:hidden;
+    }
+    .why-choose-image {
+        margin-top: 57px;
+    }
+    .choose-title strong {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .team-box {
+        margin-bottom: 50px;
+    }
+    .number-cunter.text-center {
+        margin: 20px 0px;
+    }
+    .news-latter-box {
+        margin-bottom: 30px;
+    }
+    .new-items-img.text-center {
+        margin-bottom: 60px;
+    }
+    .news-text h3 {
+        font-size: 20px;
+    }
+
+    .carsol-title2 h1 {
+        font-size: 35px;
+    }
+
+    .carsol-title2 {
+        margin: auto;
+        z-index: 5;
+        padding-bottom: 199px;
+    }
+}
+@media  (max-width:991px){
+ 
+    .about-botom-right {
+        padding-left: 0px;
+        margin-top: 85px;
+        margin-left: 0;
+    }
+}
+
+
+@media all and (max-width:768px){
+    .jon-menu li a i {
+        display: none;
+    }
+    .jon-menu li ul {
+        left: 17%;
+    }
+    .carsol-title {
+        width: 450px;
+        padding-bottom: 100px;
+    }
+    .carsol-title h1 {
+        font-size: 30px;
+    }
+    .carsol-one-img {
+        height: 30vh;
+    }
+    .carsol-two-img {
+        height: 30vh;
+    }
+    .carsol-three-img{
+        height:30vh;
+    }
+    .bot-uper {
+        margin-bottom: 10px;
+    }
+    .bot-lower {
+        margin-bottom: 50px;
+    }
+    .choose-text h3 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .choose-text p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .team-box {
+        text-align: center;
+    }
+    .social ul {
+        left: 0px;
+    }
+    .two2 .lin {
+        display: none;
+    }
+    .carsol-title {
+        width: 450px;
+        padding-bottom: 20px;
+    }
+    .btn-btn {
+        padding: 14px 20px;
+    }
+    .carsol-title2 {
+
+        padding-bottom: 14px;
+    }
+    .carsol-title2 h1 {
+        font-size: 21px;
+    }
+    .carsol-title2 p {
+        font-size: 14px;
+    }
+    .about-botom-left .img22 {
+        right: 0px;
+        left: 0;
+        margin: auto;
+    }
+ 
+}
+
+@media all and (max-width:576px){
+    .sorbe-left {
+        margin-left: 0px;
+    }
+    .sorbe-right {
+        margin-right: 0px;
+    }
+    .title h1 {
+        font-size: 24px;
+    }
+    .contact-left-progress h2 {
+        font-size: 27px;
+       }
+
+       .contact-counter {
+        padding: 90px 20px;
+    }
+}
+@media all and (max-width:500px){
+    .progress-left-righ h5 {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .progress-left-righ strong {
+        font-size: 16px;
+    }
+}
+@media all and (max-width:450px){
+    .number-cunter h5 {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width:410px){
+    .header-top-section {
+        display: none;
+    }
+    .title-items ul li strong {
+        font-size: 14px;
+    }
+
+}
